@@ -73,12 +73,16 @@ There is currently **no funding**. If that changes, this section will be updated
 
 ## Contact
 
-*Add your contact info or links here.*
+*burgerstudio.DOOM@proton.me*
 
 ## License
 
-*Choose a license (e.g. MIT) and add it here.*
+*MIT*
 
 ---
 
 *2l6lf: short domains, no cost.*
+<p align="center">
+  <img src="./banner.svg" alt="2L6LF Logo" width="280" />
+</p>
+
