@@ -77,7 +77,7 @@ There is currently **no funding**. If that changes, this section will be updated
 
 ## License
 
-*MIT*
+*GNU affero General Public License v3.0*
 
 ---
 
